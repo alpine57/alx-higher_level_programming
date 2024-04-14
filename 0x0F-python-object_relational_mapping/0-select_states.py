@@ -1,4 +1,5 @@
 #!/usr/bin/node
+"""  lists  states from  database hbtn_0e_0_usa """
 
 import MySQLdb
 import sys
