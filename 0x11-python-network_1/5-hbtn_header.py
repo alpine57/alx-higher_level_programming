@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 """Displays  x-Request-Id header variable of request to  given URL"""
 
