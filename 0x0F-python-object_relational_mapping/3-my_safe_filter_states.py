@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" prints a list of rows"""
 import MySQLdb
 import sys
 

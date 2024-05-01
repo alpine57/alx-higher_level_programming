@@ -1,8 +1,9 @@
 #!/usr/bin/python3
+""" lists states from database hbtn_0e_0_usa """
 import MySQLdb
 import sys
 
-if __name__= "__main__":
+if __name__=="__main__":
 
 db = MySQLdb.connect(host="localhost", user=sys.agv[1], passwrd=sys.agv[2], db =sys.agv[3], port=3306)
 cur = db.cursor()
